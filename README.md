@@ -3,7 +3,6 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.
  it is the systematic application of engineering principles, methods and tools to the development and maintenance of high quality software systems,
  its importance in the technology industry is to provide software that are easy to use.
@@ -45,7 +44,6 @@ effective communication, agile methodologies, prioritization of tasks, and regul
 reassessment of project goals and timelines
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
 Importance of Testing: Testing is a critical aspect of QA and involves various types of testing, 
 including:
  - Unit Testing: Testing individual components or modules of software.
